@@ -1,0 +1,1 @@
+Full-stack AI-powered real estate deal analyzer built with React and Spring Boot featuring MAO calculations, rehab cost estimation, comp-based ARV analysis, ROI metrics, seller messaging, and deal comparison tools.
