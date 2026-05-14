@@ -1,0 +1,6 @@
+com\amilia\dealpilot\service\DealService.class
+com\amilia\dealpilot\DealPilotApplication.class
+com\amilia\dealpilot\repository\DealRepository.class
+com\amilia\dealpilot\model\Deal.class
+com\amilia\dealpilot\controller\DealController.class
+com\amilia\dealpilot\service\OpenAiService.class
